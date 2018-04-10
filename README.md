@@ -21,7 +21,7 @@ We here created wireless dumbbell topology to test TCP BBR.
 n2 -------- n4------------- AP. . . . . n6
           /                  .
          /                     .                        Here, in this example AP is a wireless device, and 
-        /                        .                         n4, n5, n6 are station nodes        
+        /                        .                         n5, n6, n7 are station nodes.       
        /                           .
       /                              .
    n3                                   n7    
